@@ -1,6 +1,6 @@
 # INFO
 
-This repository is dedicated to the implementation and exploration of various generative models, specifically Variational Autoencoders (VAE), Diffusion Model (DM), Decision Transformer (DT), and Generative Adversarial Network (GAN) in the context of Offline Reinforcement Learning (RL) using the D4RL environment. 
+This repository is dedicated to the implementation and exploration of various generative models, specifically Variational Autoencoders (VAE), Diffusion Model (DM), Generative Adversarial Network (GAN), and Decision Transformer (DT) as a sequence modeling, in the context of Offline Reinforcement Learning (RL) using the D4RL environment. 
 
 
 ## Repository Structure
